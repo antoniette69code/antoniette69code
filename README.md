@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Antoinette Jeffery (they/them)
+# 👋 Hey there, I'm Antoinette Jeffery
 
 ## 🛠️ Backend Developer | Django & DRF Enthusiast
 
